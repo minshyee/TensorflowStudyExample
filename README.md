@@ -1,5 +1,7 @@
 # Tensorflow Study Example
 
+##이제 내꺼...mm
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
