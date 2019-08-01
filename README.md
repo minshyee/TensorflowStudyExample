@@ -1,6 +1,8 @@
 # Tensorflow Study Example
 
-##이제 내꺼...mm
+##내꺼지롱
+빵야빵야
+
 
 # Version Info
 * Python3.6
